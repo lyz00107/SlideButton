@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlideButton">
+        <attr name="cover_drawable" format="reference|color"/>
+        <attr name="bg_color" format="color"/>
+        <attr name="inner_text_color" format="color"/>
+        <attr name="cover_text_color" format="color"/>
+        <attr name="inner_text_size" format="dimension"/>
+        <attr name="cover_text_size" format="dimension"/>
+        <attr name="inner_text" format="string"></attr>
+        <attr name="cover_text" format="string"></attr>
+        <attr name="offset_finish" format="float"></attr>
+        <attr name="cover_padding" format="dimension"></attr>
+    </declare-styleable>
+</resources>
